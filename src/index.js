@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import $ from 'jquery';
 import './index.css';
 import App from './App';
+import Animation from './animation';
 import * as serviceWorker from './serviceWorker';
+
+
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,0 +1,25 @@
+.home-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 6% 88% 6%;
+    grid-template-rows: 100%;
+}
+
+.center {
+    border-radius: 1;
+    border-color: black;
+    border-width: 50;
+    border-style: solid;
+}
+
+.pad {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+#svgobj {
+    width: 100%;
+}
